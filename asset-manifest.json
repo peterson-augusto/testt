@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Projeto-front-react/static/css/main.0d0f17d5.css",
+    "main.js": "/Projeto-front-react/static/js/main.20bb7e40.js",
+    "index.html": "/Projeto-front-react/index.html",
+    "main.0d0f17d5.css.map": "/Projeto-front-react/static/css/main.0d0f17d5.css.map",
+    "main.20bb7e40.js.map": "/Projeto-front-react/static/js/main.20bb7e40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d0f17d5.css",
+    "static/js/main.20bb7e40.js"
+  ]
+}
